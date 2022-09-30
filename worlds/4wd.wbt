@@ -212,5 +212,5 @@ Robot {
     density -1
     mass 1
   }
-  controller "four_wheels_collision_avoidance"
+  controller "4wd"
 }
